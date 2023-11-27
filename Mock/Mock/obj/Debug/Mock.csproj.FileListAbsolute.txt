@@ -1,0 +1,10 @@
+C:\Coding\C#\Mock\Mock\bin\Debug\Mock.exe.config
+C:\Coding\C#\Mock\Mock\bin\Debug\Mock.exe
+C:\Coding\C#\Mock\Mock\bin\Debug\Mock.pdb
+C:\Coding\C#\Mock\Mock\obj\Debug\Mock.csproj.AssemblyReference.cache
+C:\Coding\C#\Mock\Mock\obj\Debug\Mock.Form1.resources
+C:\Coding\C#\Mock\Mock\obj\Debug\Mock.Properties.Resources.resources
+C:\Coding\C#\Mock\Mock\obj\Debug\Mock.csproj.GenerateResource.cache
+C:\Coding\C#\Mock\Mock\obj\Debug\Mock.csproj.CoreCompileInputs.cache
+C:\Coding\C#\Mock\Mock\obj\Debug\Mock.exe
+C:\Coding\C#\Mock\Mock\obj\Debug\Mock.pdb
